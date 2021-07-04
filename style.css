@@ -38,3 +38,23 @@ section{
     background-image: url(image/hero\ back.jpg);
     background-repeat: no-repeat;
 }
+.second-part img{
+    width: 80%;
+    padding-top: 30px;
+    padding-left: 180px;
+}
+.second-part{
+    width: 50%;
+    padding-top: 80px;
+    padding-right: 180px;
+}
+.n-color{
+    color: #091F2B;
+}
+.p-color{
+    color: black;
+}
+.about{
+    background-image: url(image/code.png);
+    background-repeat: no-repeat;
+}
